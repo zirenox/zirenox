@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - Dustin@zirenoxmedia.com<br>⚡ Fun fact: Apple is betther than Windows. 
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - Dustin@velten.pro<br>⚡ Fun fact: Apple is betther than Windows. 
 
 
 ## 🌐 Socials:
